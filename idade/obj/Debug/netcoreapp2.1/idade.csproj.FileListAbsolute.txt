@@ -8,3 +8,4 @@ c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.AssemblyInfoI
 c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.AssemblyInfo.cs
 c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.dll
 c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.pdb
+C:\Users\Andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.csprojAssemblyReference.cache
