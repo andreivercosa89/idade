@@ -1,0 +1,10 @@
+c:\users\andrei\projetos\idade\idade\bin\Debug\netcoreapp2.1\idade.deps.json
+c:\users\andrei\projetos\idade\idade\bin\Debug\netcoreapp2.1\idade.runtimeconfig.json
+c:\users\andrei\projetos\idade\idade\bin\Debug\netcoreapp2.1\idade.runtimeconfig.dev.json
+c:\users\andrei\projetos\idade\idade\bin\Debug\netcoreapp2.1\idade.dll
+c:\users\andrei\projetos\idade\idade\bin\Debug\netcoreapp2.1\idade.pdb
+c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.csproj.CoreCompileInputs.cache
+c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.AssemblyInfoInputs.cache
+c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.AssemblyInfo.cs
+c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.dll
+c:\users\andrei\projetos\idade\idade\obj\Debug\netcoreapp2.1\idade.pdb
